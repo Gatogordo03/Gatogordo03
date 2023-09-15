@@ -1,28 +1,30 @@
 <h2 align="center">Hi 😸, I'm Gatogordo03<br>Front-End Developer | UX Designer</h2>
 
-## Experiencia
-Cuento con un año de experiencia como desarrollador web especializado en el Front-End. He trabajado en diversos proyectos relacionados con la parte visual e interactiva de distintos sitios web. Mi objetivo Principal es ser un especialista de alto nivel en el area asi como satisfacer las necesidades de los usuarios.
+## 🧠About me & Skills🛠️
 
----
+- 1 Year of experience as a Web Developer.
+- I learned with Oracle and Alura Latam.
+- I have worked on several projects related to the visual and interactive part of different websites.
+- My main goal is to be a high-level specialist in the area as well as meet the needs of users.
 
-## 🧠About Me
-
-- I’m Working with React<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px">
-
-- 1 Year of Experience
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80px">
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55px">
 </div>
 
 
-## Proyectos Destacados
-1. [Planifica y Disfruta](http://planificaydisfruta.com). Este fue mi primer proyecto formal que realice a una empresa de seguros diversificados (vida, automoviles, animales, etc.).
-En este proyecto unicamente se hizo utilidad de las tecnologias basicas. HTML, CSS y JavaScript
+## 📜Proyects🫱🏻‍🫲🏻
+1. [Planifica y Disfruta](http://planificaydisfruta.com). This was my first formal project for a diversified insurance company (life, cars, animals, etc.). In this project only basic technologies were made useful. HTML, CSS and JavaScript
 
-## Habilidades
-1. HTML, CSS y JS. Herramientas y utilidades basicas de arquitectura y estructuracion web.
-2. React. Estructuracion de 
 
 <!--
 **Gatogordo03/Gatogordo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
